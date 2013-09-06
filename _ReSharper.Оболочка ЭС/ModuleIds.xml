@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="A557F806-9664-4B77-8A38-5FFA6FD7017E" ModuleId="Оболочка ЭС" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="8425E498-E085-4E10-91D9-11326A56393F" ModuleId="InferentialMechanism" />
+  <Module PersistentId="265A3A9F-27FE-4934-9D3D-FC559825154D" ModuleId="ExplanationComponent" />
+</Modules>

@@ -1,0 +1,2 @@
+CREATE DATABASE [db1] ON PRIMARY 
+( NAME = N'db1', FILENAME = N'H:\db1.mdf')

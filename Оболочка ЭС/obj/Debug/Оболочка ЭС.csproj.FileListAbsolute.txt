@@ -1,0 +1,59 @@
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe.config
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\bin\Debug\Оболочка ЭС.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка ЭС.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка_ЭС.Properties.Resources.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка ЭС.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка ЭС.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка ЭС.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка_ЭС.FormMain.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка_ЭС.FormNewES.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\obj\Debug\Оболочка_ЭС.DomainEditor.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС\bin\Debug\db.sdf
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe.config
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\Оболочка ЭС.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.DomainEditor.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.FormMain.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.FormNewES.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.Properties.Resources.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeItem.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.VariableEditor.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeVariable.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.RuleEditor.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeRule.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeFact.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\db.sdf
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\InferentialMechanism.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\ExplanationComponent.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\ExplanationComponent.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe.config
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\db.sdf
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\Оболочка ЭС.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\ExplanationComponent.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\ExplanationComponent.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\InferentialMechanism.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeFact.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeRule.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeVariable.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.RuleEditor.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.VariableEditor.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.AddChangeItem.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.DomainEditor.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.FormMain.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.FormNewES.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка_ЭС.Properties.Resources.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Чуприна\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\bin\Debug\Оболочка ЭС.exe.config
+C:\Users\Ирина\Documents\Чуприна\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.exe
+C:\Users\Ирина\Documents\Чуприна\Оболочка ЭС\Оболочка ЭС - Много форм\Оболочка ЭС\obj\Debug\Оболочка ЭС.pdb

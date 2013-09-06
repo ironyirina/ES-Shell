@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="db" Class="Db" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Table Name="Conclusions">
+    <Type Name="Conclusions">
+      <Column Name="id" Member="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VariableID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ValueID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RuleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Rules_Conclusions" Member="Rules" ThisKey="RuleID" OtherKey="Id" Type="Rules" IsForeignKey="true" />
+      <Association Name="Values_Conclusions" Member="Values" ThisKey="ValueID" OtherKey="Id" Type="Values" IsForeignKey="true" />
+      <Association Name="Variables_Conclusions" Member="Variables" ThisKey="VariableID" OtherKey="Id" Type="Variables" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="Consultations">
+    <Type Name="Consultations">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Date" Type="System.String" DbType="NVarChar(10)" CanBeNull="true" />
+      <Column Name="Goal" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Result" Type="System.String" DbType="NVarChar(4000)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="Domains">
+    <Type Name="Domains">
+      <Column Name="id" Member="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Member="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Domains_Values" Member="Values" ThisKey="Id" OtherKey="DomainID" Type="Values" />
+      <Association Name="Domains_Variables" Member="Variables" ThisKey="Id" OtherKey="DomainID" Type="Variables" />
+    </Type>
+  </Table>
+  <Table Name="Facts">
+    <Type Name="Facts">
+      <Column Name="id" Member="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="VariableID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ValueID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="RuleID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Rules_Facts" Member="Rules" ThisKey="RuleID" OtherKey="Id" Type="Rules" IsForeignKey="true" />
+      <Association Name="Values_Facts" Member="Values" ThisKey="ValueID" OtherKey="Id" Type="Values" IsForeignKey="true" />
+      <Association Name="Variables_Facts" Member="Variables" ThisKey="VariableID" OtherKey="Id" Type="Variables" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="Rules">
+    <Type Name="Rules">
+      <Column Name="id" Member="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Member="Name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="explain" Member="Explain" Type="System.String" DbType="NVarChar(4000)" CanBeNull="true" />
+      <Column Name="number" Member="Number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Rules_Conclusions" Member="Conclusions" ThisKey="Id" OtherKey="RuleID" Type="Conclusions" />
+      <Association Name="Rules_Facts" Member="Facts" ThisKey="Id" OtherKey="RuleID" Type="Facts" />
+    </Type>
+  </Table>
+  <Table Name="Values">
+    <Type Name="Values">
+      <Column Name="id" Member="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Member="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="DomainID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Number" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Values_Conclusions" Member="Conclusions" ThisKey="Id" OtherKey="ValueID" Type="Conclusions" />
+      <Association Name="Values_Facts" Member="Facts" ThisKey="Id" OtherKey="ValueID" Type="Facts" />
+      <Association Name="Domains_Values" Member="Domains" ThisKey="DomainID" OtherKey="Id" Type="Domains" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="Variables">
+    <Type Name="Variables">
+      <Column Name="id" Member="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Member="Name" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="type" Member="Type" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="domainID" Member="DomainID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="question" Member="Question" Type="System.String" DbType="NVarChar(4000)" CanBeNull="true" />
+      <Association Name="Variables_Conclusions" Member="Conclusions" ThisKey="Id" OtherKey="VariableID" Type="Conclusions" />
+      <Association Name="Variables_Facts" Member="Facts" ThisKey="Id" OtherKey="VariableID" Type="Facts" />
+      <Association Name="Domains_Variables" Member="Domains" ThisKey="DomainID" OtherKey="Id" Type="Domains" IsForeignKey="true" />
+      <Association Name="VarTypes_Variables" Member="VarTypes" ThisKey="Type" OtherKey="Id" Type="VarTypes" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="VarTypes">
+    <Type Name="VarTypes">
+      <Column Name="id" Member="Id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name" Member="Name" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Association Name="VarTypes_Variables" Member="Variables" ThisKey="Id" OtherKey="Type" Type="Variables" />
+    </Type>
+  </Table>
+</Database>

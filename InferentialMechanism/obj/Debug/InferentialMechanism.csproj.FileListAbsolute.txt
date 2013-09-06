@@ -1,0 +1,20 @@
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.FormAsk.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.FormConsult.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.Properties.Resources.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\bin\Debug\InferentialMechanism.exe.config
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\bin\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\bin\Debug\InferentialMechanism.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.FormAsk.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.FormConsult.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.Properties.Resources.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\obj\Debug\InferentialMechanism.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\bin\Debug\InferentialMechanism.exe.config
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\bin\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\InferentialMechanism\bin\Debug\InferentialMechanism.pdb

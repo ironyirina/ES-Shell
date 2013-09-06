@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A557F806-9664-4B77-8A38-5FFA6FD7017E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Оболочка_ЭС</RootNamespace>
+    <AssemblyName>Оболочка ЭС</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Messaging" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddChangeFact.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChangeFact.Designer.cs">
+      <DependentUpon>AddChangeFact.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddChangeItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChangeItem.Designer.cs">
+      <DependentUpon>AddChangeItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddChangeRule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChangeRule.Designer.cs">
+      <DependentUpon>AddChangeRule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AddChangeVariable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddChangeVariable.Designer.cs">
+      <DependentUpon>AddChangeVariable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="db.cs">
+      <DependentUpon>db.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="db.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>db.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="DomainEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DomainEditor.Designer.cs">
+      <DependentUpon>DomainEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNewES.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNewES.Designer.cs">
+      <DependentUpon>FormNewES.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RuleEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RuleEditor.Designer.cs">
+      <DependentUpon>RuleEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VariableEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VariableEditor.Designer.cs">
+      <DependentUpon>VariableEditor.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddChangeFact.resx">
+      <DependentUpon>AddChangeFact.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddChangeRule.resx">
+      <DependentUpon>AddChangeRule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AddChangeVariable.resx">
+      <DependentUpon>AddChangeVariable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RuleEditor.resx">
+      <DependentUpon>RuleEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VariableEditor.resx">
+      <DependentUpon>VariableEditor.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="db.dbml.layout">
+      <DependentUpon>db.dbml</DependentUpon>
+    </None>
+    <EmbeddedResource Include="AddChangeItem.resx">
+      <DependentUpon>AddChangeItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DomainEditor.resx">
+      <DependentUpon>DomainEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNewES.resx">
+      <DependentUpon>FormNewES.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="db.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>db.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\DataSources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="db.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ExplanationComponent\ExplanationComponent.csproj">
+      <Project>{265a3a9f-27fe-4934-9d3d-fc559825154d}</Project>
+      <Name>ExplanationComponent</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InferentialMechanism\InferentialMechanism.csproj">
+      <Project>{8425e498-e085-4e10-91d9-11326a56393f}</Project>
+      <Name>InferentialMechanism</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

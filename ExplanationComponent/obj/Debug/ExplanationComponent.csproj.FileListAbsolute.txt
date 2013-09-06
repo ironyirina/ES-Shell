@@ -1,0 +1,22 @@
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\ExplanationComponent.exe.config
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\ExplanationComponent.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\ExplanationComponent.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.ExplanationForm.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.Properties.Resources.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\InferentialMechanism.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\ExplanationComponent.exe.config
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\ExplanationComponent.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\ExplanationComponent.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\InferentialMechanism.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\bin\Debug\InferentialMechanism.pdb
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.csprojResolveAssemblyReference.cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.ExplanationForm.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.Properties.Resources.resources
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.csproj.GenerateResource.Cache
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.exe
+C:\Users\Ирина\Documents\Базы Знаний\Оболочка ЭС\Оболочка ЭС - Много форм\ExplanationComponent\obj\Debug\ExplanationComponent.pdb
